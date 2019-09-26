@@ -1,36 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome Master Cheft 2019 Capitulo 1
 
-You can use the [editor on GitHub](https://github.com/danjazz23/mc.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://rcnhd.cloudvideo.com.co/html5/html5lib/v2.75.1/mwEmbedFrame.php/p/102/uiconf_id/23448186/entry_id/0_usa4zntv?wid=_102&iframeembed=true&playerId=kaltura_player_1541201713&entry_id=0_usa4zntv
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danjazz23/mc.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
